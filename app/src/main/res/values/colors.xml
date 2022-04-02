@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#19202e</color>
+    <color name="colorPrimaryDark">#000004</color>
+    <color name="colorAccent">#22c2c7</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorPrimaryLight">#404757</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorBackgroundLoading">#F2515151</color>
+    <color name="colorFont">#909090</color>
+    <color name="colorRed">#FF4D7C</color>
+    <color name="colorBlack">#29293B</color>
+
+    <color name="yellow_300">#f8f99f</color>
+    <color name="yellow_500">#C5FF00</color>
+    <color name="colorFontFrame">#29293B</color>
+    <color name="colorRedText"> #FF4D7C</color>
+    <color name="colorOutlook">#067FDA</color>
+
+    <color name="colorApple">#1A1A1A</color>
+    <color name="colorTextIn">#d8d8d8</color>
+    <color name="colorTextLog">#757575</color>
+
+    <color name="colorBorderLineImput">#8B8DA0</color>
+    <color name="dot_disable">#D8D8D8</color>
+    <color name="red_error">#FF3A22</color>
+    <color name="red_error_font">#FDF5BEB8</color>
+    <color name="btn_disable">#D8D8D8</color>
+
+    <color name="font_dialog">#BF29293B</color>
+
+    <color name="bpTransparent">#00000000</color>
+
+    <color name="colorFontHome">#FAF6F6</color>
+</resources>

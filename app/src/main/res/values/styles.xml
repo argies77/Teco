@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ParentBackground">
+        <item name="android:background">@color/colorFontFrame</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="TextLoading">
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:textColor">@color/colorSurface</item>
+        <item name="android:text">@string/text_loading</item>
+    </style>
+
+    <style name="textDescriptionCharacter">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginStart">20sp</item>
+        <item name="android:textColor">@color/colorFontFrame</item>
+        <item name="android:textSize">@dimen/item_id</item>
+    </style>
+
+    <style name="textTitleCharacter">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginStart">20sp</item>
+        <item name="android:textColor">@color/colorFontFrame</item>
+        <item name="android:textSize">@dimen/item_title</item>
+    </style>
+
+
+
+
+</resources>

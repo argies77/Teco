@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">openBank</string>
+    <string name="BASE_URL">https://gateway.marvel.com</string>
+    <string name="error_server">Hubo un error en el servidor. Inténtelo mas tarde</string>
+    <string name="text_loading">Loading..</string>
+    <string name="search">Search Character</string>
+
+
+
+</resources>

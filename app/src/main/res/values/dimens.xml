@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_id">15sp</dimen>
+    <dimen name="item_title">30sp</dimen>
+    <dimen name="item_description">12sp</dimen>
+    <dimen name="margin_recycler">20sp</dimen>
+</resources>
