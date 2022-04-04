@@ -4,6 +4,7 @@ import android.content.Context
 import com.openBank.AppExecutors
 import com.openBank.ui.character.CharacterViewModel
 import com.openBank.ui.details.DetailsCharacterViewModel
+import com.openBank.ui.splash.SplashViewModel
 import com.openBank.util.SharedViewModel
 import org.koin.android.ext.koin.androidContext
 import org.koin.androidx.viewmodel.dsl.viewModel
@@ -18,6 +19,7 @@ val appModule = module {
     viewModel{ CharacterViewModel(get()) }
     viewModel{ DetailsCharacterViewModel(get()) }
     viewModel { SharedViewModel() }
+    viewModel{ SplashViewModel() }
     single { androidContext().getSharedPreferences(SP_FILE, Context.MODE_PRIVATE) }
 
 }
