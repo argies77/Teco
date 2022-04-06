@@ -7,28 +7,18 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.openBank.ui.splash.SplashFragment"
+        android:name="com.telecom.ui.splash.SplashFragment"
         android:label="splash_fragment"
         tools:layout="@layout/splash_fragment" >
         <action
-            android:id="@+id/action_splashFragment_to_characterFragment"
-            app:destination="@id/characterFragment" />
+            android:id="@+id/action_splashFragment_to_deviceFragment"
+            app:destination="@id/deviceFragment" />
     </fragment>
 
     <fragment
-        android:id="@+id/characterFragment"
-        android:name="com.openBank.ui.character.CharacterFragment"
-        android:label="character_fragment"
-        tools:layout="@layout/character_fragment" >
-        <action
-            android:id="@+id/action_characterFragment_to_detailsCharacterFragment"
-            app:destination="@id/detailsCharacterFragment" />
-    </fragment>
-    <fragment
-        android:id="@+id/detailsCharacterFragment"
-        android:name="com.openBank.ui.details.DetailsCharacterFragment"
-        android:label="details_character_fragment"
-        tools:layout="@layout/details_character_fragment" />
+        android:id="@+id/deviceFragment"
+        android:name="com.telecom.ui.devices.DeviceFragment"
+        android:label="DeviceFragment" />
 
 </navigation>
 

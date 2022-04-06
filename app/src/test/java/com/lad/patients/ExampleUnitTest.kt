@@ -1,4 +1,4 @@
-package com.openBank
+package com.telecom
 
 import org.junit.Test
 import org.junit.Assert.*

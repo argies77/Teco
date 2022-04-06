@@ -1,10 +1,8 @@
 <resources>
-    <string name="app_name">openBank</string>
-    <string name="BASE_URL">https://gateway.marvel.com</string>
+    <string name="app_name">Telecom</string>
+    <string name="BASE_URL">https://61967289af46280017e7e0c0.mockapi.io/</string>
     <string name="error_server">Hubo un error en el servidor. Inténtelo mas tarde</string>
     <string name="text_loading">Loading..</string>
-    <string name="search">Search Character</string>
-
-
-
+    <string name="search">Search Device</string>
+    <string name="legal"><u>Legales:</u></string>
 </resources>

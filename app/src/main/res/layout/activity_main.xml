@@ -33,12 +33,7 @@
             android:fitsSystemWindows="true"
             android:theme="@style/Theme.LadPatients.AppBarOverlay"
             app:elevation="0dp">
-
-
-
         </com.google.android.material.appbar.AppBarLayout>
-
-
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 

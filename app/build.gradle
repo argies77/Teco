@@ -10,7 +10,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.openBank"
+        applicationId "com.telecom"
         minSdk 21
         targetSdk 30
         versionCode 1
@@ -111,6 +111,9 @@ dependencies {
     //Fresco
     implementation 'com.facebook.fresco:fresco:2.3.0'
 
+    //carrucel
+    implementation"com.synnapps:carouselview:0.1.5"
+    implementation 'com.squareup.picasso:picasso:2.71828'
 
     testImplementation "org.koin:koin-test:$koin_version"
     testImplementation 'junit:junit:4.+'
